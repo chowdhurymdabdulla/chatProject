@@ -1,0 +1,26 @@
+{
+  "name": "chatproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/node": "^7.13.12",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/register": "^7.13.8",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "node-iplocate": "^1.0.2",
+    "node-localstorage": "^2.1.6",
+    "node-mn": "0.0.5",
+    "public-ip": "^4.0.3",
+    "redis": "^3.0.2",
+    "socket.io": "^4.0.0"
+  }
+}
